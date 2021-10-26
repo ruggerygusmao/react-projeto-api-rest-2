@@ -1,0 +1,53 @@
+body{
+  background-color: #282c34;
+}
+.busca h1{
+  color: #6396e5;
+}
+.busca button{
+  background-color: #6396e5;
+  border: none;
+  border-radius: 4px;
+  margin-left: 10px;
+  height: 25px;
+}
+.busca input {
+  background-color: #353a44;
+  border: none;
+  border-radius: 4px;
+  height: 25px;
+  color: #fff;
+}
+.App {
+  color: #fff;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.busca{
+  text-align: center;
+}
+
+.content1{
+  text-align: center;
+
+}
+
+.content2{
+  display: flex;
+  justify-content: space-around;
+  background-color: #353a44;
+  border-radius: 4px;
+  height: 15vh;
+  align-items: center;
+}
+
+.content2 ul {
+  list-style-type: none;
+  text-align: left;
+  font-size: 14px;
+}
+
+.content2 ul li {
+  margin: 0 0 5px 0;
+}
